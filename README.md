@@ -190,8 +190,7 @@ docs/           Protocol, results, deployment notes, demo guide, troubleshooting
 ## Help
 
 See [docs/TROUBLESHOOTING.md](docs/TROUBLESHOOTING.md) for common installation,
-checkpoint, and display issues. For a demonstration runbook, see
-[docs/DEMO_GUIDE.md](docs/DEMO_GUIDE.md).
+checkpoint, and display issues.
 
 ## License
 

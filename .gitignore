@@ -38,6 +38,7 @@ reports/*
 /thesis/
 /output/
 /docs/THESIS.md
+/docs/DEMO_GUIDE.md
 
 # Kept locally because the current GitHub OAuth token lacks workflow scope.
 /.github/workflows/
