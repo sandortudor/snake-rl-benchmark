@@ -1,0 +1,15 @@
+{
+  "final_avg_score": 19.62,
+  "best_score": 44,
+  "total_train_seconds": 3.8487,
+  "target_score": 10.0,
+  "target_episode": 1,
+  "target_seconds": 0.0027,
+  "model": "greedy",
+  "seed": 1,
+  "device": "cpu",
+  "model_size": 0,
+  "python": "3.12.13",
+  "machine": "arm64",
+  "system": "Darwin"
+}

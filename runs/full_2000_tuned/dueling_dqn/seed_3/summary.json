@@ -1,0 +1,15 @@
+{
+  "final_avg_score": 11.6,
+  "best_score": 33,
+  "total_train_seconds": 90.3153,
+  "target_score": 10.0,
+  "target_episode": 192,
+  "target_seconds": 4.057,
+  "model": "dueling_dqn",
+  "seed": 3,
+  "device": "cpu",
+  "model_size": 35204,
+  "python": "3.12.13",
+  "machine": "arm64",
+  "system": "Darwin"
+}

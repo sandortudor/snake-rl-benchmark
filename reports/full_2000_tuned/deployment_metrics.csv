@@ -1,0 +1,8 @@
+model,train_seed,device,model_size,checkpoint_bytes,latency_median_us,latency_p95_us,iterations,python,machine,system
+random,1,cpu,0,0,0.25,0.292,1000,3.12.13,arm64,Darwin
+greedy,1,cpu,0,0,1.25,1.583,1000,3.12.13,arm64,Darwin
+q_learning,1,cpu,3894,89695,4.417,5.417,1000,3.12.13,arm64,Darwin
+dqn,1,cpu,18563,77369,19.75,21.0,1000,3.12.13,arm64,Darwin
+double_dqn,1,cpu,18563,77369,19.708,20.917,1000,3.12.13,arm64,Darwin
+dueling_dqn,1,cpu,35204,145205,34.792,36.417,1000,3.12.13,arm64,Darwin
+lightweight_snake_ddqn,1,cpu,9412,42037,27.125,32.292,1000,3.12.13,arm64,Darwin

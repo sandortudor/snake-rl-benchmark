@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="600" viewBox="0 0 1000 600">
+<rect width="100%" height="100%" fill="white"/>
+<text x="500.0" y="35" text-anchor="middle" font-size="24" font-family="Arial">Speed-quality efficiency</text>
+<line x1="80" y1="520" x2="920" y2="520" stroke="#111827"/>
+<line x1="80" y1="80" x2="80" y2="520" stroke="#111827"/>
+<text x="20" y="300.0" transform="rotate(-90 20 300.0)" text-anchor="middle" font-size="14" font-family="Arial">Final score per second</text>
+<rect x="99.5" y="80.0" width="78.0" height="440.0" fill="#0f766e"/>
+<text x="138.5" y="72.0" text-anchor="middle" font-size="13" font-family="Arial">5.31</text>
+<text x="138.5" y="540" text-anchor="end" transform="rotate(-35 138.5 540)" font-size="12" font-family="Arial">greedy</text>
+<rect x="219.5" y="190.0" width="78.0" height="330.0" fill="#2563eb"/>
+<text x="258.5" y="182.0" text-anchor="middle" font-size="13" font-family="Arial">3.98</text>
+<text x="258.5" y="540" text-anchor="end" transform="rotate(-35 258.5 540)" font-size="12" font-family="Arial">q_learning</text>
+<rect x="339.5" y="465.2" width="78.0" height="54.8" fill="#c2410c"/>
+<text x="378.5" y="457.2" text-anchor="middle" font-size="13" font-family="Arial">0.66</text>
+<text x="378.5" y="540" text-anchor="end" transform="rotate(-35 378.5 540)" font-size="12" font-family="Arial">random</text>
+<rect x="459.5" y="505.0" width="78.0" height="15.0" fill="#7c3aed"/>
+<text x="498.5" y="497.0" text-anchor="middle" font-size="13" font-family="Arial">0.18</text>
+<text x="498.5" y="540" text-anchor="end" transform="rotate(-35 498.5 540)" font-size="12" font-family="Arial">double_dqn</text>
+<rect x="579.5" y="505.4" width="78.0" height="14.6" fill="#be123c"/>
+<text x="618.5" y="497.4" text-anchor="middle" font-size="13" font-family="Arial">0.18</text>
+<text x="618.5" y="540" text-anchor="end" transform="rotate(-35 618.5 540)" font-size="12" font-family="Arial">dqn</text>
+<rect x="699.5" y="508.7" width="78.0" height="11.3" fill="#4d7c0f"/>
+<text x="738.5" y="500.7" text-anchor="middle" font-size="13" font-family="Arial">0.14</text>
+<text x="738.5" y="540" text-anchor="end" transform="rotate(-35 738.5 540)" font-size="12" font-family="Arial">lightweight_snake_ddqn</text>
+<rect x="819.5" y="509.4" width="78.0" height="10.6" fill="#111827"/>
+<text x="858.5" y="501.4" text-anchor="middle" font-size="13" font-family="Arial">0.13</text>
+<text x="858.5" y="540" text-anchor="end" transform="rotate(-35 858.5 540)" font-size="12" font-family="Arial">dueling_dqn</text>
+</svg>

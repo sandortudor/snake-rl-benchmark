@@ -1,0 +1,15 @@
+{
+  "final_avg_score": 12.38,
+  "best_score": 34,
+  "total_train_seconds": 66.1466,
+  "target_score": 10.0,
+  "target_episode": 197,
+  "target_seconds": 3.0471,
+  "model": "dqn",
+  "seed": 2,
+  "device": "cpu",
+  "model_size": 18563,
+  "python": "3.12.13",
+  "machine": "arm64",
+  "system": "Darwin"
+}

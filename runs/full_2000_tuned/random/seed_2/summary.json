@@ -1,0 +1,15 @@
+{
+  "final_avg_score": 0.16,
+  "best_score": 3,
+  "total_train_seconds": 0.33,
+  "target_score": 10.0,
+  "target_episode": null,
+  "target_seconds": null,
+  "model": "random",
+  "seed": 2,
+  "device": "cpu",
+  "model_size": 0,
+  "python": "3.12.13",
+  "machine": "arm64",
+  "system": "Darwin"
+}

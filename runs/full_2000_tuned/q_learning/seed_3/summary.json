@@ -1,0 +1,15 @@
+{
+  "final_avg_score": 9.72,
+  "best_score": 22,
+  "total_train_seconds": 2.4944,
+  "target_score": 10.0,
+  "target_episode": 871,
+  "target_seconds": 0.7374,
+  "model": "q_learning",
+  "seed": 3,
+  "device": "cpu",
+  "model_size": 3795,
+  "python": "3.12.13",
+  "machine": "arm64",
+  "system": "Darwin"
+}

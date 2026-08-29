@@ -1,0 +1,8 @@
+rank,model,avg_final_score,best_score,avg_train_seconds,model_size,score_per_second,score_stddev
+1,greedy,20.0333,45.0,3.7732,0,5.309422,0.4031
+2,q_learning,9.7,22.0,2.4362,3894,3.981611,0.7595
+3,random,0.22,3.0,0.3329,0,0.660859,0.0432
+4,double_dqn,11.7933,34.0,65.3408,18563,0.180489,0.8945
+5,dqn,11.6733,39.0,66.3291,18563,0.175991,0.5882
+6,lightweight_snake_ddqn,11.1867,36.0,82.2207,9412,0.136057,0.5742
+7,dueling_dqn,12.1,42.0,94.9783,35204,0.127398,0.3861
